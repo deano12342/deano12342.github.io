@@ -1,43 +1,44 @@
-# Chirpy Starter
+# 🤖 AI와 협업하기 (Collaborating with AI)
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+> **"사무직을 위한 크고 작은 AI 활용 팁을 정리한 블로그입니다."**
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+개발과 거리가 먼 사무직 실무자들도 AI를 업무 곳곳에 똑똑하게 활용할 수 있도록,  
+자신의 직무에 맞는 기술과 설치 방법을 알기 쉽게 설명합니다.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+### 🔗 Blog URL
+👉 **[https://deano12342.github.io](https://deano12342.github.io)**
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+---
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+### 🎯 Purpose
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+이 블로그는 다음과 같은 목표로 운영됩니다.
+* **Non-Tech Friendly:** 비개발자도 이해하기 쉬운 AI 도구 사용법 가이드
+* **Efficiency:** 업무 시간을 단축시켜주는 실전 활용 팁 공유
+* **Insight:** 실무 환경에 적용 가능한 AI 인사이트 아카이빙
 
-## Usage
+---
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+### 📚 Tech Stack
 
-## Contributing
+이 블로그는 **Jekyll**과 **Chirpy** 테마를 기반으로 제작되었습니다.
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+* **Framework:** Jekyll
+* **Theme:** [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+* **Hosting:** GitHub Pages
+* **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-## License
+---
 
-This work is published under [MIT][mit] License.
+### 🧑‍💻 Author
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+**Haeun Lee**
+* **Role:** 제약사 PR 실무자 (Public Relations Practitioner in Pharma)
+* **Contact:** [deano12342@gmail.com]
+
+---
+
+### 📝 Latest Topics
+* 업무 자동화 (Automation)
+* AI 툴 활용법 (AI Tools)
+* AI 브라우저 활용법 (Comet AI Browser)
